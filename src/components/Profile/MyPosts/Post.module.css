@@ -1,0 +1,13 @@
+
+.content
+{
+grid-area: c;
+background-color:burlywood;
+}
+
+.item img
+{
+    width: 100px;
+    height: 130px;
+    border-radius: 30px;
+}
