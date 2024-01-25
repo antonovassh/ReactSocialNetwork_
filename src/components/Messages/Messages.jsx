@@ -1,8 +1,8 @@
+import React from 'react';
 
-
-const Messages= () =>
-{
-<div>Hello</div>
+const Messages= () => {
+ return <div>LALALA</div>
 }
+
 
 export default Messages;

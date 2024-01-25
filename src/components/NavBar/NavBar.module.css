@@ -9,3 +9,7 @@ background-color: blanchedalmond;
 {
     color:darkslategray;
 }
+
+#sidebar a.active {
+    color: red;
+  }
