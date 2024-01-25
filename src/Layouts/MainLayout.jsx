@@ -6,8 +6,6 @@ import React from 'react';
 
 const MainLayout = () => ( 
 <div>
-<NavBar/>
-<Header/>
 <Profile/>
 </div>)
    

@@ -1,0 +1,36 @@
+
+.dialogs {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+  }
+  
+  .dialogItems {
+    flex: 1;
+    padding: 10px;
+    border-right: 1px solid #ccc;
+  }
+  
+  .dialog {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+  }
+  
+  .item:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .messages {
+    flex: 2;
+    padding: 10px;
+  }
+  
+  .message {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #d3e0ea;
+    border-radius: 5px;
+  }
+  

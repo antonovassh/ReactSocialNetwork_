@@ -3,6 +3,11 @@
 {
 grid-area: c;
 background-color:burlywood;
+
+}
+
+.item{
+    align-items: center;
 }
 
 .item img
@@ -10,4 +15,6 @@ background-color:burlywood;
     width: 100px;
     height: 130px;
     border-radius: 30px;
+    
+
 }
